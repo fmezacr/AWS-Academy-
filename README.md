@@ -50,6 +50,3 @@ Este repositorio es un recurso de apoyo académico. No sustituye las instruccion
 
 No publique credenciales, claves de acceso, tokens ni información sensible dentro de las notebooks.
 
----
-
-**AWS Academy TEC**
