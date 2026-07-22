@@ -53,4 +53,3 @@ No publique credenciales, claves de acceso, tokens ni información sensible dent
 ---
 
 **AWS Academy TEC**
-Tecnológico de Costa Rica
